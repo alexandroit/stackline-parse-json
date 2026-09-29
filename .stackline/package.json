@@ -1,6 +1,6 @@
 {
   "name": "@stackline/parse-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse JSON with more helpful errors",
   "license": "MIT",
   "repository": {
@@ -26,6 +26,10 @@
     "vendor"
   ],
   "keywords": [
+    "stackline",
+    "npm-package",
+    "parse-json",
+    "nodejs",
     "parse",
     "json",
     "graceful",
@@ -47,7 +51,7 @@
     "nyc": "^15.1.0",
     "xo": "^0.46.4"
   },
-  "homepage": "https://github.com/alexandroit/stackline-parse-json#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/parse-json/",
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-parse-json/issues"
   },
