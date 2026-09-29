@@ -26,7 +26,7 @@ jobs:
           package-manager-cache: false
       - run: npm install --global npm@11.19.0
       - run: npm ci --ignore-scripts
-      - run: npx --no-install ava
+      - run: npx --no-install ava test.js
       - run: python3 scripts/stackline-pack.py
       - run: node scripts/stackline-test-packed.mjs
       - run: node --test scripts/registry-requests.test.mjs
