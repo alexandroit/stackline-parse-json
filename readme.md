@@ -4,13 +4,13 @@
 
 [![npm version](https://img.shields.io/npm/v/@stackline/parse-json.svg?style=flat-square)](https://www.npmjs.com/package/@stackline/parse-json)
 [![license](https://img.shields.io/npm/l/@stackline/parse-json.svg?style=flat-square)](https://github.com/alexandroit/stackline-parse-json)
-[![GitHub repository](https://img.shields.io/badge/GitHub-alexandroit%2Fstackline-parse-json-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-parse-json)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-181717?style=flat-square&logo=github)](https://github.com/alexandroit/stackline-parse-json)
 [![Docs](https://img.shields.io/badge/docs-alexandro.net-0f766e?style=flat-square)](https://alexandro.net/docs/vanilla/parse-json/)
 [![Reddit community](https://img.shields.io/badge/community-r%2FStackline-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/Stackline/)
 
 **[Documentation](https://alexandro.net/docs/vanilla/parse-json/)** | **[npm](https://www.npmjs.com/package/@stackline/parse-json)** | **[Issues](https://github.com/alexandroit/stackline-parse-json/issues)** | **[Repository](https://github.com/alexandroit/stackline-parse-json)**
 
-**Current package version:** `1.0.1`
+**Current package version:** `1.0.2`
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Item | Value |
 | :--- | :--- |
-| Package | `@stackline/parse-json@1.0.1` |
+| Package | `@stackline/parse-json@1.0.2` |
 | API target | `parse-json@6.0.2` |
 | Supported Node.js | `^12.20.0 \|\| ^14.13.1 \|\| >=16.0.0` |
 | License | `MIT` |
