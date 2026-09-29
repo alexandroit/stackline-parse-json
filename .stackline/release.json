@@ -1,0 +1,13 @@
+{
+  "slug": "parse-json",
+  "upstream": "parse-json",
+  "upstreamVersion": "6.0.2",
+  "upstreamIntegrity": "sha512-SA5aMiaIjXkAiBrW/yPgLgQAQg42f7K3ACO+2l/zOvtQBwX58DMUsFJXelW2fx3yMBmWOVkR6j1MGsdSbCA4UA==",
+  "upstreamCommit": "c49a9c5e7835525cbbf2cf7ba973776bd37dbfe1",
+  "sourcePackageDirectory": ".",
+  "overlays": {},
+  "tests": [
+    "npm ci --ignore-scripts",
+    "npx --no-install ava"
+  ]
+}

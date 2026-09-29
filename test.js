@@ -1,7 +1,8 @@
 import test from 'ava';
 import parseJson, {JSONError} from './index.js';
 
-const jsonErrorRegex = /Unexpected token "}".*in foo\.json/;
+const jsonSyntaxMessage = /(?:Unexpected token "}"|Expected double-quoted property name)/;
+const jsonErrorRegex = /(?:Unexpected token "}"|Expected double-quoted property name).*in foo\.json/;
 
 test('main', t => {
 	t.truthy(parseJson('{"foo": true}'));
@@ -10,7 +11,7 @@ test('main', t => {
 		parseJson('{\n\t"foo": true,\n}');
 	}, {
 		name: 'JSONError',
-		message: /Unexpected token "}"/,
+		message: jsonSyntaxMessage,
 	});
 
 	t.throws(() => {

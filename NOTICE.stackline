@@ -1,0 +1,5 @@
+Independent maintenance fork of parse-json 6.0.2.
+Original copyright, author attribution, and license files are retained unchanged.
+Upstream: https://github.com/sindresorhus/parse-json
+Base commit: c49a9c5e7835525cbbf2cf7ba973776bd37dbfe1
+Stackline is not affiliated with or endorsed by upstream maintainers.

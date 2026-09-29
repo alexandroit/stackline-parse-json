@@ -2,3 +2,9 @@ node_modules
 yarn.lock
 .nyc_output
 coverage
+
+# Stackline verification outputs
+/artifact/
+/node_modules/
+/package-lock.json
+# Exact install lock is force-added when required by CI.

@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-09-29T00:22:11.014065+00:00",
+  "upstreamRepository": "sindresorhus/parse-json",
+  "coverage": "Most recently updated 100 open and 30 closed issue/PR entries; PRs removed. This is triage evidence, not a claim of exhaustive review.",
+  "openIssues": [],
+  "recentClosedIssues": [
+    {
+      "number": 34,
+      "title": "[feature request] support preloading usage",
+      "url": "https://github.com/sindresorhus/parse-json/issues/34"
+    },
+    {
+      "number": 48,
+      "title": "[extra space] little confusion.",
+      "url": "https://github.com/sindresorhus/parse-json/issues/48"
+    },
+    {
+      "number": 46,
+      "title": "Remove `json-parse-even-better-errors`",
+      "url": "https://github.com/sindresorhus/parse-json/issues/46"
+    },
+    {
+      "number": 38,
+      "title": "Remove error-ex as dependency",
+      "url": "https://github.com/sindresorhus/parse-json/issues/38"
+    },
+    {
+      "number": 35,
+      "title": "problem using in Vite",
+      "url": "https://github.com/sindresorhus/parse-json/issues/35"
+    },
+    {
+      "number": 22,
+      "title": "ReferenceError: process is not defined when using with TS in Angular",
+      "url": "https://github.com/sindresorhus/parse-json/issues/22"
+    },
+    {
+      "number": 30,
+      "title": "Pin version of `lines-and-columns` dependency ",
+      "url": "https://github.com/sindresorhus/parse-json/issues/30"
+    },
+    {
+      "number": 28,
+      "title": "Broken change after migrating to ES6",
+      "url": "https://github.com/sindresorhus/parse-json/issues/28"
+    },
+    {
+      "number": 27,
+      "title": "Remove Babel dependency",
+      "url": "https://github.com/sindresorhus/parse-json/issues/27"
+    },
+    {
+      "number": 24,
+      "title": "Error installing parse-json: No matching version found for json-parse-even-better-errors@^2.3.0",
+      "url": "https://github.com/sindresorhus/parse-json/issues/24"
+    }
+  ],
+  "decision": "Maintenance adoption with preserved runtime payload. No runtime defect correction is claimed. Reports remain visible for subsequent targeted reproduction.",
+  "limits": "Issue titles and bodies were reviewed from the bounded primary-source snapshot; this does not claim exhaustive issue closure or vulnerability absence."
+}
