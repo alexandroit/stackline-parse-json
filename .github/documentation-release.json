@@ -4,7 +4,7 @@
     {
       "name": "@stackline/parse-json",
       "path": "readme.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -24,8 +24,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/parse-json/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/parse-json/-/parse-json-1.0.0.tgz",
       "baselineIntegrity": "sha512-CuDEIPQuoUWNNTbMY6A+yafJ6cFct5XD0IpubaQmv6Dnyjf9YUry2yKCgZ/IWvkRm21EhF7Y8bOBQWCcwn5CfA==",
-      "expectedSha512": "15692511d33220d58347e2bf5c89075f4438166058f1d459b988ffc373a014bd601839d7a7dd348d54f5735cabcabb7e62d154a984676760bea38edd727566f7",
-      "tag": "docs-stackline-parse-json-v1.0.1"
+      "expectedSha512": "a40622f619e68cf3eca060fe22415b48333b64b037ac41dd18ed8b00b9c82141e95a5b5a74e2db2361a97b5c15f0682c8a7ea94a6d2232cd5c36fb4dd4d9703d",
+      "tag": "docs-stackline-parse-json-v1.0.2"
     }
   ]
 }
