@@ -1,6 +1,6 @@
 {
   "name": "@stackline/parse-json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse JSON with more helpful errors",
   "license": "MIT",
   "repository": {

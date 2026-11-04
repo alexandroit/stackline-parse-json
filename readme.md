@@ -10,7 +10,7 @@
 
 **[Documentation](https://alexandro.net/docs/vanilla/parse-json/)** | **[npm](https://www.npmjs.com/package/@stackline/parse-json)** | **[Issues](https://github.com/alexandroit/stackline-parse-json/issues)** | **[Repository](https://github.com/alexandroit/stackline-parse-json)**
 
-**Current package version:** `1.0.2`
+**Current package version:** `1.0.4`
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Item | Value |
 | :--- | :--- |
-| Package | `@stackline/parse-json@1.0.2` |
+| Package | `@stackline/parse-json@1.0.4` |
 | API target | `parse-json@6.0.2` |
 | Supported Node.js | `^12.20.0 \|\| ^14.13.1 \|\| >=16.0.0` |
 | License | `MIT` |
@@ -182,3 +182,7 @@ Original copyright, license notices and contributor acknowledgements remain part
 - [Maintainer LinkedIn](https://www.linkedin.com/in/aleinfo/)
 
 Use this repository's issue tracker for reproducible bugs and feature requests. Join r/Stackline for examples, usage questions and release discussions.
+
+## Upstream documentation
+
+The original upstream README is preserved in [README.upstream.md](README.upstream.md).
